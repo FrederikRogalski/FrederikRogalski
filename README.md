@@ -17,9 +17,9 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact" alt="Top Languages"width="340" style="max-width:50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact" alt="Top Languages"width="340" style="max-width:50%">
 </picture>
 </div>
