@@ -13,7 +13,7 @@
     
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact&bg_color=0d1117ff&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact&bg_color=0d1117ff&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
