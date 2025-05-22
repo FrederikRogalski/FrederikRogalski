@@ -1,25 +1,47 @@
-<div>
-    <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=FrederikRogalski&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117ff&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=FrederikRogalski&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=FrederikRogalski&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats" width="490" style="max-width:50%">
-</picture>
-    
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact&bg_color=0d1117ff&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikRogalski&hide=jupyter%20notebook&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact" alt="Top Languages"width="340" style="max-width:50%">
-</picture>
-</div>
+# Frederik Rogalski
+
+Programmer & AI Engineer at **AUDI AG** | Co-founder of **Revoki**
+
+---
+
+## About Me
+
+I build systems end-to-end: from hardware to AI infrastructure. No buzzwords, just working code.
+
+- AI platforms for production at Audi  
+- Co-founder of [Revoki](https://revoki.de): custom virtual assistants for real business automation  
+- Master’s in Artificial Intelligence Engineering, University of Passau  
+- Write about tech at [xlagor.de](https://xlagor.de) and [Medium](https://medium.com/nerd-for-tech/face-mask-detection-with-nvidia-jetson-nano-yolov5-b66f286f16d4)
+
+---
+
+## Real Full Stack — Projects
+
+**Electronics & Embedded**  
+- [Face Mask Detection with Nvidia Jetson Nano & YOLOv5](https://medium.com/nerd-for-tech/face-mask-detection-with-nvidia-jetson-nano-yolov5-b66f286f16d4):  
+  Camera, edge AI, and hardware integration.
+
+**FPGA Programming & Processors**  
+- [16-bit Processor in Verilog](https://github.com/FrederikRogalski/processor):  
+  Designed and simulated a simple MIPS-like CPU.
+
+**Compiler Development**  
+- [Custom Compiler for My Processor](https://github.com/FrederikRogalski/Compiler):  
+  Wrote a compiler to generate code for my own CPU architecture.
+
+**Software Engineering & AI Infrastructure**  
+- [babygrad: Minimal Autograd Engine](https://github.com/FrederikRogalski/babygrad):  
+  Built an educational deep learning library from scratch.
+
+---
+
+## Links
+
+- [GitHub](https://github.com/FrederikRogalski)
+- [Blog](https://xlagor.de)
+- [Medium](https://medium.com/@frederik.rogalski)
+- [Revoki](https://revoki.de)
+
+---
+
+*If you care about building things that actually work — hardware, compilers, or AI — let’s talk.*
